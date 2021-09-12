@@ -1,0 +1,46 @@
+.container{
+    background-color: #130e0e;
+    border-radius: 5px  ;
+    margin: 50px auto;
+    width: 600px;
+    height: 600px;
+    box-shadow: 3px 3px 30px rgba(0,0,0,0.1);
+}
+.button-row {
+    text-align: center;
+    color: cornflowerblue;
+    margin: 0px auto;
+}
+body {
+    background-color: #d21f1f;
+}
+h1 {
+    font-family: "fantasy";
+    text-align: center;
+    color: #ee0c40;
+    padding: 40px 0px 10px;
+}
+h3 {
+    font-family:"Malayalam Sangam MN";
+    text-align: center;
+    color: #ffffff;
+}
+label{
+    font-size:x-large;
+    background-color: #eae5e4;
+}
+table, th, td {
+    text-align: center;
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+th,tr {
+    color: #ffffff;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
