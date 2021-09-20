@@ -2,9 +2,10 @@
     background-color: #FFFFFF;
 }
 hr{
+    display: block;
     border-width:10px;
     color:black;
-    background-color:black"
+    background-color:black;
 }
 p{
     font-size: x-small;
